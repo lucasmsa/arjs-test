@@ -5,4 +5,4 @@
 - ##### Clone Repository `git clone https://github.com/lucasmsa/arjs-test.git` <br>
 - ##### cd over to directory `cd arjs-test` <br>
 - ##### Install dependencies  `yarn` <br>
-- ##### Run 🖲 ``nodemon src/index.js``
+- ##### Run 🖲 ``yarn start``
